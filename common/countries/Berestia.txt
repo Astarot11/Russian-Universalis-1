@@ -1,6 +1,8 @@
+### RU017 - Added
+
 graphical_culture = easterngfx
 
-color = { 112 62 1 }
+color = { 96  193  235 }
 revolutionary_colors = { 13 5 8 }
 
 historical_idea_groups = {

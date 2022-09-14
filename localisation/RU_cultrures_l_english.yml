@@ -9,7 +9,6 @@ l_english:
  rani: "Ð³¾°¬"
  bulgar: "€³®¥¬"
  cuman: "‰®¢µ¬"
- old_russian: "ƒ¢°³¬"
  baltic_prussian: "‰³¬"
  ruthenian: "‹¬ª°¬" ## RU023
  zalesky: "…®¬" ## RU023
@@ -19,6 +18,10 @@ l_english:
  kievan: "ª¢¬" ## RU023
  volynian: "Ï®º°¬" ## RU023
  pomorian: "‰¯¬" ## RU023
+ chud: "Ì³¦¬" ## RU024
+ mordvin: "¦¢ª°¬" ## RU024
+ mari: "ªþ¬" ## RU024
+ bashkir_altaic: "€Œ¬ª¬" ## RU024
  abodritian_small: "¡¦ª¶¬"
  alanian_small: "®°¬"
  geatish_small: "¥ž²¬"
@@ -28,7 +31,6 @@ l_english:
  rani_small: "³¾°¬"
  bulgar_small: "¡³®¥¬"
  cuman_small: "±®¢µ¬"
- old_russian_small: "¦¢°³¬"
  baltic_prussian_small: "±³¬"
  ruthenian_small: "³¬ª°¬" ## RU023
  zalesky_small: "©®¬" ## RU023
@@ -38,4 +40,8 @@ l_english:
  kievan_small: "¬ª¢¬" ## RU023
  volynian_small: "¢®º°¬" ## RU023
  pomorian_small: "±¯¬" ## RU023
+ chud_small: "¶³¦¬" ## RU024
+ mordvin_small: "¯¦¢ª°¬" ## RU024
+ mari_small: "¯ªþ¬" ## RU024
+ bashkir_altaic_small: "¡Œ¬ª¬" ## RU024
  
